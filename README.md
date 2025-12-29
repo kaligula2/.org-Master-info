@@ -3,4 +3,4 @@ info about looksmax.org owner "Lamarcus Small"
 
 
 
-click .html file if u wanna view the info
+download .html file to view the info.
